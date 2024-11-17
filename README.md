@@ -1,4 +1,8 @@
 ## Hi there 👋
+I'm Hasan, a Python enthusiast who loves crafting command-line tools. I'm passionate about cryptocurrency, cybersecurity, web development, data science, and machine learning.
+
+## My GitHub Stats and Top Languages
+![Hanzou's github stats](https://github-readme-stats.vercel.app/api?username=CryptoAirdropHindi&show_icons=true&theme=tokyonight)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CryptoAirdropHindi&layout=donut&theme=tokyonight&show_icons=true)
 
 <!--
 **CryptoAirdropHindi/CryptoAirdropHindi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
