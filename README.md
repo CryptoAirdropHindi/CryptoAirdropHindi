@@ -1,17 +1,14 @@
-## Hi there 👋 Welcome My Github profile
-
-I'm Hasan, a Python enthusiast who loves crafting command-line tools. I'm passionate about cryptocurrency, cybersecurity, web development, data science, and machine learning.
-
-## My GitHub Stats and Top Languages
-![Hanzou's github stats](https://github-readme-stats.vercel.app/api?username=CryptoAirdropHindi&show_icons=true&theme=tokyonight)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CryptoAirdropHindi&layout=donut&theme=tokyonight&show_icons=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=CryptoAirdropHindi&theme=radical&hide_border=false)
-<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
-<br/>
-<!--
-**CryptoAirdropHindi/CryptoAirdropHindi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+<p align="center">
+Hi there 👋
+</p>
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=recitativonika&theme=github-dark&hide_border=true" alt="GitHub Streak" /></a>
+</p>
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CryptoAirdropHindi/CryptoAirdropHindi/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CryptoAirdropHindi/CryptoAirdropHindi/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CryptoAirdropHindi/CryptoAirdropHindi/output/github-contribution-grid-snake.svg">
+</picture>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
