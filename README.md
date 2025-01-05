@@ -10,5 +10,3 @@
   <!-- Light Mode -->
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CryptoAirdropHindi/CryptoAirdropHindi/output/github-contribution-grid-snake.svg">
   <!-- Fallback Image -->
-  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/CryptoAirdropHindi/CryptoAirdropHindi/output/github-contribution-grid-snake.svg">
-</picture>
