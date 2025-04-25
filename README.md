@@ -6,7 +6,10 @@
 </a>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CryptoAirdropHindi&color=brightgreen" alt="Profile Views">
+  <img 
+    src="https://komarev.com/ghpvc/?username=CryptoAirdropHindi&label=Profile+Views&color=brightgreen&style=flat-square" 
+    alt="CryptoAirdropHindi's Profile Views"
+  />
 </p>
 
 
