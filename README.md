@@ -1,10 +1,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lexend&weight=600&size=48&pause=1000&color=2C49F7&center=true&vCenter=true&width=1920&height=150&lines=Welcome+to+CryptoAirdropHindi+Github" alt="Typing SVG" /></a>
 <p align="center">
   </a>
-  <a href="https://t.me/CryptoAirdropHindi6">
-    <img src="https://img.shields.io/static/v1?logo=telegram&label=&message=Join @CryptoAirdropHindi6&color=36393f&style=flat-square" alt="Telegram">
-  </a>
-</p>
+<a href="https://t.me/CryptoAirdropHindi6" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/static/v1?logo=telegram&label=Telegram&message=Join%20@CryptoAirdropHindi6&color=26A5E4&style=for-the-badge" alt="Join CryptoAirdropHindi6 on Telegram">
+</a>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=CryptoAirdropHindi&color=brightgreen" alt="Profile Views">
